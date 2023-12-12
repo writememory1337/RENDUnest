@@ -44,7 +44,6 @@ echo 'DB_URL="postgresql://user:password@localhost:5432/db_name?schema=public"' 
 # prisma migration
 $ npx prisma migrate dev
 
-
 # start server
 $ npm run start:prod
 
