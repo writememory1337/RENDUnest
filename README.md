@@ -39,7 +39,7 @@ $ npm install
 $ npm install --save @nestjs/swagger
 
 #.env file creation
-echo 'DB_URL="postgresql://postgres@localhost:5432/rendunest?schema=public"' > .env
+echo 'DB_URL="postgresql://user:password@localhost:5432/db_name?schema=public"' > .env
 
 # prisma migration
 $ npx prisma migrate dev
