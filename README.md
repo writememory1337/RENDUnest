@@ -38,7 +38,7 @@ $ npm install
 
 $ npm install --save @nestjs/swagger
 
-$ npm run start:dev
+
 
 # prisma tests
 $ npx prisma init
@@ -47,6 +47,7 @@ $ npx prisma init
 $ npx prisma migrate dev
 
 
-# production mode
-$ pnpm run start:prod
+# start server
+$ npm run start:dev
+
 ```
