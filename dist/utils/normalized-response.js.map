@@ -1,0 +1,1 @@
+{"version":3,"file":"normalized-response.js","sourceRoot":"","sources":["../../src/utils/normalized-response.ts"],"names":[],"mappings":";;AAAA,MAAqB,kBAAkB;IACnC,YAA6B,OAAe,EAAmB,IAAS;QAA3C,YAAO,GAAP,OAAO,CAAQ;QAAmB,SAAI,GAAJ,IAAI,CAAK;IAAG,CAAC;IAErE,MAAM;QACX,OAAO;YACL,OAAO,EAAE,IAAI,CAAC,OAAO;YACrB,IAAI,EAAE,IAAI,CAAC,IAAI;SAChB,CAAC;IACJ,CAAC;CACF;AATH,qCASG"}
