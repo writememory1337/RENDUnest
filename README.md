@@ -38,6 +38,8 @@ $ npm install
 
 $ npm install --save @nestjs/swagger
 
+$ lnpm install --save @nestjs/swagger
+
 $ npm run start:dev
 
 # prisma tests
