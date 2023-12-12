@@ -35,39 +35,24 @@ $ pnpm install
 ## Running the app
 
 ```bash
-# development
-$ pnpm run start
+# cloning the repo
+$ git clone https://github.com/writememory1337/RENDUnest
+$ cd RENDUnest
 
-# watch mode
-$ pnpm run start:dev
+# deployment & dependencies
+$ npm install
+
+$ npm install --save @nestjs/swagger
+
+$ npm run start:dev
+
+# prisma tests
+$ npx prisma init
+
+# prisma migration
+$ npx prisma migrate dev
+
 
 # production mode
 $ pnpm run start:prod
 ```
-
-## Test
-
-```bash
-# unit tests
-$ pnpm run test
-
-# e2e tests
-$ pnpm run test:e2e
-
-# test coverage
-$ pnpm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
