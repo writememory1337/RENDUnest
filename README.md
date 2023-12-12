@@ -26,12 +26,6 @@
 
 Projet [Nest](https://github.com/nestjs/nest) dans le cadre d'un Brief SIMPLON.
 
-## Installation
-
-```bash
-$ pnpm install
-```
-
 ## Running the app
 
 ```bash
